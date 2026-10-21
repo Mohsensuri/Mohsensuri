@@ -13,7 +13,7 @@ Exploring **Quantitative Finance**, **Machine Learning**, and **Algorithmic Trad
 <br />
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mohsen-suri/)
-[![Telegram](https://img.shields.io/badge/Telegram-229ED9?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/SMARTFinAI)
+[![Telegram](https://img.shields.io/badge/Telegram-229ED9?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/TheProfessorPrime)
 [![Email](https://img.shields.io/badge/Email-123B63?style=for-the-badge&logo=gmail&logoColor=white)](mailto:surimohsen.finance@gmail.com)
 
 </div>
@@ -91,7 +91,7 @@ I'm developing a portfolio of practical work at the intersection of **finance, P
 
 Interested in finance, quantitative research, or applied machine learning? Feel free to connect.
 
-[**LinkedIn**](https://www.linkedin.com/in/mohsen-suri/) · [**Telegram**](https://t.me/SMARTFinAI) · [**Email**](mailto:surimohsen.finance@gmail.com)
+[**LinkedIn**](https://www.linkedin.com/in/mohsen-suri/) · [**Telegram**](https://t.me/TheProfessorPrime) · [**Email**](mailto:surimohsen.finance@gmail.com)
 
 <sub>From Financial Foundations to Predictive Strategies</sub>
 
